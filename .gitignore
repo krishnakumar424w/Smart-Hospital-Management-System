@@ -1,10 +1,2 @@
-# Dependency packages
-node_modules/
-
-# Environment and secret variables
+﻿node_modules/
 .env
-
-# Logs & build outputs
-npm-debug.log*
-dist/
-build/
